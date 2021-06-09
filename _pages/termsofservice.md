@@ -103,10 +103,13 @@ ARGO may assume the defense of any matter for which you are required to indemnif
 ## 9.0 General Provisions
 **9.1. Governing Law**
 The user agrees that this Agreement shall be deemed to have been made and executed in the laws of the Republic of Korea and any Dispute arising hereunder shall be resolved in accordance the laws of the Republic of Korea.
+
 **9.2. Dispute Resolution**
 If you have any claim arising out of this Agreement against us, we strongly encourage you to contact our customer support team to seek a resolution. If both parties fail to reach a settlement within 30 calendar days after the first contact occurs, either party may refer such a dispute to the Korean Commercial Arbitration Board in Seoul in accordance with the Arbitration Rules of the Korean Commercial Arbitration Board. The arbitration is to be conducted before a single arbitrator whom the parties jointly select. If the parties are unable to agree upon the arbitrator, either party may request the Korean Arbitration Association to select the arbitrator.
+
 **9.3. Waiver**
 The waiver by either party of a breach of or a default under any provision of this Agreement, shall be in writing and shall not be construed as a waiver of any subsequent breach of or default under the same or any other provision of this Agreement, nor shall any delay or omission on the part of either party to exercise or avail itself of any right or remedy that it has or may have hereunder operate as a waiver of any right or remedy.
+
 **9.4. Force Majeure**
 Neither party shall be responsible or have any liability for any delay or failure to perform to the extent required due to unforeseen circumstances or causes beyond its reasonable control, including, without limitation, acts of God, earthquake, fire, flood, embargoes, labor disputes and strikes, riots, war, acts of a public enemy, error in the coding of electronic files, Internet or other network "brownouts" or failures, power failures, novelty of product manufacture or other unanticipated product development problems, and acts of civil and military authorities.
  
@@ -114,14 +117,23 @@ Neither party shall be responsible or have any liability for any delay or failur
 
 ## 10.0 Definitions
 **10.1. Guest account**: an account that enables temporary use of the service by downloading the application from an app store operated by a platform provider or social media provider.
+
 **10.2. Play account**: an account with a platform provider used to register for that platform provider's services.
+
 **10.3. Social media account**: an account used by the user on a social media service such as Facebook or Google+, etc.
+
 **10.4. Single sign-on (SSO)**: a guest account connected to a play account or social media account.
+
 **10.5. Service**: the game service provided by ARGO.
+
 **10.6. Application (app)**: the entire program enabling use of the service provided by ARGO.
+
 **10.7. App store provider**: a mobile open market provider (Apple, Google, etc.) enabling download of the application provided by ARGO and in-app purchases.
+
 **10.8. Platform provider**: the provider offering the service in partnership with ARGO and all relevant services.
+
 **10.9. Content**: items, etc. that can be used on the service.
+
 **10.10. In-app purchase**: the purchase of content in the application.
  
 
