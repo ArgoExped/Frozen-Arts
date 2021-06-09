@@ -35,9 +35,9 @@ discord_username                          : A3mwB2bt
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Team Info
-    description                           : A \n B \n !
-    fontawesome_icon_name                 : magic
+  - title                                 : #Team Info
+    description                           : #A \n B \n !
+    fontawesome_icon_name                 : #magic
     
   - title                                 : #iPhone Device Preview
     description                           : #Preview your app in the context of an iPhone device. Five different device colors included.
