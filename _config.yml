@@ -36,20 +36,20 @@ discord_username                          : A3mwB2bt
 features                                  :
 
   - title                                 : Team Info
-    description                           : A \n B \n !
+    description                           : AB!
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Team Info
+    description                           : AB!
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Team Info
+    description                           : AB!
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : #Automatic Icon and Metadata
+    description                           : #Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+    fontawesome_icon_name                 : #sync
 
   - title                                 : #Easy to Tweak
     description                           : #Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
