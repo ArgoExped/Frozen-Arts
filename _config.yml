@@ -37,15 +37,15 @@ features                                  :
 
   - title                                 : Team Info
     description                           : AB!
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : assets/groups/Expedition.png
     
   - title                                 : Team Info
     description                           : AB!
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : assets/groups/Kingdom.png
 
   - title                                 : Team Info
     description                           : AB!
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : assets/groups/Rebel.png
 
   - title                                 : #Automatic Icon and Metadata
     description                           : #Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
