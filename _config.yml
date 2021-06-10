@@ -36,23 +36,23 @@ discord_username                          : A3mwB2bt
 features                                  :
 
   - title                                 : Expedition
-    description                           : AB!
+    description                           : Expedition Group Heroes
     fontawesome_icon_name                 : assets/groups/Expedition.png
     
   - title                                 : Kingdom
-    description                           : AB!
+    description                           : Kingdom Group Heroes
     fontawesome_icon_name                 : assets/groups/Kingdom.png
 
   - title                                 : Street
-    description                           : AB!
+    description                           : Street Group Heroes
     fontawesome_icon_name                 : assets/groups/Street.png
 
   - title                                 : Rebel
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+    description                           : Rebel Group Heroes
     fontawesome_icon_name                 : assets/groups/Rebel.png
 
   - title                                 : Armada
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+    description                           : Armada Group Heroes
     fontawesome_icon_name                 : assets/groups/Armada.png
   
   - title                                 : #Feature List
