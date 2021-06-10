@@ -35,25 +35,25 @@ discord_username                          : A3mwB2bt
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Team Info
+  - title                                 : Expedition
     description                           : AB!
     fontawesome_icon_name                 : assets/groups/Expedition.png
     
-  - title                                 : Team Info
+  - title                                 : Kingdom
     description                           : AB!
     fontawesome_icon_name                 : assets/groups/Kingdom.png
 
-  - title                                 : Team Info
+  - title                                 : Street
     description                           : AB!
+    fontawesome_icon_name                 : assets/groups/Street.png
+
+  - title                                 : Rebel
+    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
     fontawesome_icon_name                 : assets/groups/Rebel.png
 
-  - title                                 : #Automatic Icon and Metadata
-    description                           : #Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : #sync
-
-  - title                                 : #Easy to Tweak
-    description                           : #Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : #adjust
+  - title                                 : Armada
+    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+    fontawesome_icon_name                 : assets/groups/Armada.png
   
   - title                                 : #Feature List
     description                           : #Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
