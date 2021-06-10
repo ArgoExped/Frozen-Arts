@@ -55,9 +55,9 @@ features                                  :
     description                           : Armada Group Heroes
     fontawesome_icon_name                 : assets/groups/Armada.png
   
-  - title                                 : #Feature List
-    description                           : #Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : #star
+  - title                                 : Upcoming
+    description                           : Something is hanging around?
+    fontawesome_icon_name                 : assets/groups/Upcoming.png
 
   - title                                 : #Smart App Banner
     description                           : #Display a smart app banner on iOS devices.
