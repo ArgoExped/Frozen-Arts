@@ -9,11 +9,11 @@
                 <img class="headerIcon" src="{{ feature.fontawesome_icon_name | relative_url }}">
             </span>
         </div>
-        <div>
-            <h3>
+        <div class="featureText">
+            <h3 style="color:whitesmoke;">
                 {{ feature.title }}
             </h3>
-                <img src="{{ feature.description | relative_url }}" >
+                <img src="{{ feature.description | relative_url }}" height="200" width="300">
         </div>
     </div>
     {% endif %}
