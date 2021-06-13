@@ -36,27 +36,27 @@ discord_username                          : U7yukbhZn2
 features                                  :
 
   - title                                 : Expedition
-    description                           : Expedition Group Heroes
+    description                           : assets/grouphero/Expedition.png
     fontawesome_icon_name                 : assets/groups/Expedition.png
     
   - title                                 : Kingdom
-    description                           : Kingdom Group Heroes
+    description                           : assets/grouphero/Kingdom.png
     fontawesome_icon_name                 : assets/groups/Kingdom.png
 
   - title                                 : Street
-    description                           : Street Group Heroes
+    description                           : assets/grouphero/Street.png
     fontawesome_icon_name                 : assets/groups/Street.png
 
   - title                                 : Rebel
-    description                           : Rebel Group Heroes
+    description                           : assets/grouphero/Rebel.png
     fontawesome_icon_name                 : assets/groups/Rebel.png
 
   - title                                 : Armada
-    description                           : Armada Group Heroes
+    description                           : assets/grouphero/Armada.png
     fontawesome_icon_name                 : assets/groups/Armada.png
   
   - title                                 : Upcoming
-    description                           : Something is hanging around?
+    description                           : assets/grouphero/Upcoming.png
     fontawesome_icon_name                 : assets/groups/Upcoming.png
 
   - title                                 : #Smart App Banner
