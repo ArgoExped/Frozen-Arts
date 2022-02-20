@@ -17,7 +17,8 @@ Feb 2. 14. 2022
      - Generation cycle: 0.4 -> 0.35
 2. Modification of block increase growth
      - Activation rate increase change: 10% -> 5% (Explore Team, Fortune teller, Diplomat, Merchant, Architect, Doctor, Speaker)
-     - Activation rate increase change: 10% -> 3% (gambler, sailor, carpenter, navigator)
+     - Activation rate increase change: 10% -> 3% (gambler, sailor, navigator)
+     - Activation rate increase change: 10% -> 1% (carpenter)
      - Activation rate increase change: 1% -> 2% (patrol squad)
      - Activation range increase change: 10% -> 5% (Farmer, Mob)
 3. Alchemist
@@ -39,7 +40,7 @@ Feb 2. 14. 2022
 10. Sailor
      - Activation probability adjustment: 60, 70, 80, 100 by stage -> 30, 35, 40, 50
 11. Carpenter
-     - Activation probability adjustment: 10, 20, 30, 50 by stage -> 30, 35, 40, 50
+     - Activation probability adjustment: 10, 20, 30, 50 by stage -> 10, 12, 14, 16
 12. Navigator
      - Activation probability adjustment: 20, 30, 40, 50 for each stage -> 30, 35, 40, 50
 
