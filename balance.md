@@ -5,9 +5,38 @@ include_in_header: true
 ---
 
 **Last updated**  
-Feb 2. 14. 2022
+Feb 3. 4. 2022
 
 # Balance Logs
+
+<br>
+
+## 1.2.2
+Based on tower defense, 2048 heroes is a strategic tower defense game where you overcome the opponent with your own strategy while solving puzzles with the skills of various heroes.
+
+Use a hero with good attack power, such as a swordsman or a mob, to quickly organize the wave to press the opponent,
+Achieve 2048 quickly through skills that increase the number of blocks such as pioneers and speakers
+It was designed so that you can play various strategies by taking advantage of the personalities of the heroes.
+
+However, due to the current wave design, the monster's HP is low.
+It shows a relatively favorable appearance for puzzle play among tower defense play and puzzle play.
+By improving this, the wave composition and hero's attack speed have been changed so that various play is possible.
+
+1. Fixed wave difficulty
+     - Movement speed: 3.4 -> 3.5
+     - Health per wave: 10 -> 25
+     - Monsters per wave: 10 -> 7
+2. Modify Hero Stats
+     - Attack speed: 0.5 times per second -> 1 time per second
+
+In addition, the utilization of heroes using legendary-grade achievable skills is declining due to the high skill activation requirements.
+In order to improve this, the attainment skill of the legendary level is also raised to the same level as that of the politician.
+
+3. Revolutionary
+     - Activation condition adjustment: 256, 128, 64, 32 by stage -> 128, 64, 32, 16
+4. Captain
+     - Activation condition adjustment: 256, 128, 64, 32 by stage -> 128, 64, 32, 16
+
 
 <br>
 
