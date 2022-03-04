@@ -11,7 +11,7 @@ Feb 3. 4. 2022
 
 <br>
 
-## 1.2.2
+## 1.2.2[Planned]
 Based on tower defense, 2048 heroes is a strategic tower defense game where you overcome the opponent with your own strategy while solving puzzles with the skills of various heroes.
 
 Use a hero with good attack power, such as a swordsman or a mob, to quickly organize the wave to press the opponent,
