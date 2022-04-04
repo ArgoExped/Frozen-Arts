@@ -5,11 +5,29 @@ include_in_header: true
 ---
 
 **Last updated**  
-Feb 3. 4. 2022
+April 4. 04. 2022
 
 # Balance Logs
 
 <br>
+
+## 2.0.0
+The season has just started with a time of 'wild' right now.
+
+The season has begun.
+
+As 'unity' became 'all consummation', everything was completed.
+With advertising effects, passive, applied across the country.
+To improve 'silence' adjusts 'petrification'.
+
+1. 'Silence'-->'Petrification'
+     - There are three dispositions of 'Petrification'.
+     - The point of view of 'petrification' is 'thousand years', and 'thousand years' of 'coordinates' is 3 seconds.
+
+The doctor is promoting the plague doctor. In the splendor of the hero, I was able to be with the heroes as well.
+
+2. Becoming a Doctor
+     - In episode N, this was instructed.
 
 ## 1.2.2
 Based on tower defense, 2048 heroes is a strategic tower defense game where you overcome the opponent with your own strategy while solving puzzles with the skills of various heroes.
