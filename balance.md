@@ -3,10 +3,6 @@ layout: page
 title: Balance Logs
 include_in_header: true
 ---
-
-**Last updated**  
-2022. 04. 04
-
 # Balance Logs
 
 <br>

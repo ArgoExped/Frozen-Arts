@@ -3,10 +3,6 @@ layout: page
 title: Balance Logs
 include_in_header: true
 ---
-
-**최근 수정일자**  
-2022. 04. 04
-
 # 밸런스 수정내역
 
 <br>
