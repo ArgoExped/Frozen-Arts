@@ -55,9 +55,9 @@ features                                  :
     description                           : assets/grouphero/Armada.png
     fontawesome_icon_name                 : assets/groups/Armada.png
   
-  - title                                 : Upcoming
-    description                           : assets/grouphero/Upcoming.png
-    fontawesome_icon_name                 : assets/groups/Upcoming.png
+  - title                                 : Wild
+    description                           : assets/grouphero/Wild.png
+    fontawesome_icon_name                 : assets/groups/Wild.png
 
   - title                                 : #Smart App Banner
     description                           : #Display a smart app banner on iOS devices.
