@@ -7,6 +7,17 @@ include_in_header: true
 
 <br>
 
+## 2.0.5
+Currently, puzzle-oriented play rather than wave theorem shows that it is powerful in PvP mode.
+The following changes are being made to ensure strategy diversity.
+
+1. Wave Correction
+     - Reduced wave start delay: 1 sec -> 0.3 sec
+
+2. Skill Mechanism Fix
+     - Heroes with skills (politics, revolutionaries) will no longer be activated by revolutionaries and speakers when N is achieved.
+     - When an architect creates an empty block, citizens can appear
+
 ## 2.0.0
 The season has just started with a time of 'wild' right now.
 
