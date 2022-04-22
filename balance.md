@@ -7,6 +7,16 @@ include_in_header: true
 
 <br>
 
+## 2.0.7
+Currently, puzzle-oriented play rather than wave theorem shows that it is powerful in PvP mode.
+The following changes are being made to ensure strategy diversity.
+
+1. Captain
+     - Activation rate: 100%
+     - Activation target: 3/4/6/99 target
+     - Skill Ability: Gain 1 Energy for 2 seconds when stunned or an enemy in a stunned state is killed
+     - Block Growth: Adds 0.5 seconds of stun time depending on the number of blocks
+
 ## 2.0.5
 Currently, puzzle-oriented play rather than wave theorem shows that it is powerful in PvP mode.
 The following changes are being made to ensure strategy diversity.
