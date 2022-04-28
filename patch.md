@@ -7,6 +7,56 @@ include_in_header: true
 
 <br>
 
+## 2.0.8
+2048 Heroes can quickly achieve 2048 blocks, or use high attack power to process waves to blow up the opponent's base.
+You can win.
+
+However, in the current block growth method, the process of increasing the number to achieve 2048 is the direction to increase the attack power.
+It was difficult to break the strategy to achieve the 2048 block by using an aggressive deck, etc.
+
+To improve this problem, the amount of increase in attack power when combining blocks has been modified as follows.
+Through this, the closer to the achievement of the 2048 block, the higher the risk by lowering the overall attack power.
+You can check the related details in the tutorial in Settings.
+
+1. Block's attack power growth
+- Previously: Increases attack power by 50% when combining blocks
+- Modification: Increases attack power by 90% when first block is combined, then decreases sequentially by 80%, 70%...
+
+As a result, the attack power of the entire board has been increased, and the stamina of monsters and bases has also increased.
+
+2. Fixed wave difficulty
+- Monster HP increase by stage: 25 -> 50
+- Step-by-step boss monster HP increase: 50 -> 100
+- Base health: 1024 -> 2048
+
+Fixed damage to monsters and base health recovery skills have been adjusted.
+
+3. Savior
+     - HP recovery amount: 12, 14, 16, 20 -> 32, 34, 36, 40
+4. Chef
+     - HP recovery amount: 8, 10, 12, 16 -> 24, 26, 28, 32
+5. Farmer
+     - Additional damage: 20 -> 40
+6. Mob
+     - Additional damage: 20 -> 40
+7. Rifleman
+     - Additional damage: 40, 60, 80, 120 -> 80, 120, 160, 240
+8. Vigilante
+     - Additional damage: 4, 8, 16, 32 -> 20, 30, 40, 60
+     - Level growth: 2 -> 10
+
+Also, some character balance adjustments have been made.
+
+9. Revolutionary (Version 1.2.2 Rollback)
+     - Activation condition adjustment: 128, 64, 32, 16 -> 256, 128, 64, 32 by stage
+10. Lord
+     - Existing: When the number of enemies defeated reaches the combined number of blocks x 2, the number rises, additional damage per level
+     - Fixed: When the number of enemies killed reaches 12, 11, 10, 8, the number increases, additional damage is removed
+11. Alchemist
+     - Activation period adjustment: every 24, 22, 20, 16 -> 1 energy every 20, 18, 16, 12 seconds
+     
+In addition, two new quests have been added.
+
 ## 2.0.7
 Currently, puzzle-oriented play rather than wave theorem shows that it is powerful in PvP mode.
 The following changes are being made to ensure strategy diversity.
