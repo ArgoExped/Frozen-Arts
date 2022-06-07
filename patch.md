@@ -5,6 +5,26 @@ include_in_header: true
 ---
 # Patch Logs
 
+
+<br>
+
+
+## 2.0.9
+1. Navigator (Skill Rework)
+     - Pushes the front enemies back (1/1.5/2/3) distance
+
+2. Gambler
+     - When the blocks are combined, there is a 50% chance to draw either a blue card (win) or a red card (hand).
+     - The growth value according to the number of blocks has been removed.
+     - Gain maximum (2/3/4/5) energy or -1 energy
+
+3. Fortune teller
+     - Use the skill on the target being attacked.
+     - The skill activation rate has been increased to 100% at all levels so that players can use them strategically or in crisis situations.
+     - Skill damage has been adjusted. (20%/30%/40%/50%)
+     - The growth value (skill damage 5%) according to the number of blocks is applied.
+
+
 <br>
 
 ## 2.0.8
