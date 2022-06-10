@@ -7,10 +7,10 @@ include_in_header: true
 
 <br>
 
-## MINECRAFT END USER LICENSE AGREEMENT
-In order to protect Minecraft (our "Game") and the members of our community, we need these end user license terms to set out some rules for downloading and using our Game. This license is a legal agreement between you and us (Mojang AB) and describes the terms and conditions for using the Game. We don't like reading license documents any more than you do, so we have tried to keep this as short as possible. If you break these rules we may stop you from using our Game. If we think it is necessary, we might even have to ask our lawyers to help out.
+## 2048 Heores END USER LICENSE AGREEMENT
+In order to protect 2048 Heores (our "Game") and the members of our community, we need these end user license terms to set out some rules for downloading and using our Game. This license is a legal agreement between you and us (FrozenArts) and describes the terms and conditions for using the Game. We don't like reading license documents any more than you do, so we have tried to keep this as short as possible. If you break these rules we may stop you from using our Game. If we think it is necessary, we might even have to ask our lawyers to help out.
 
-If you buy, download, use or play our Game, you are agreeing to stick to the rules of these end user license agreement ("EULA") terms. If you don't want to or can't agree to these rules, then you must not buy, download, use or play our Game. This EULA incorporates the the terms of use for the mojang.com website ("Account Terms"), our brand and asset usage guidelines, and our our privacy policy. By agreeing to this EULA you also agree to all of the terms of the foregoing documents, so please read through them carefully.
+If you buy, download, use or play our Game, you are agreeing to stick to the rules of these end user license agreement ("EULA") terms. If you don't want to or can't agree to these rules, then you must not buy, download, use or play our Game. This EULA incorporates the the terms of use for the frozenarts.com website ("Account Terms"), our brand and asset usage guidelines, and our our privacy policy. By agreeing to this EULA you also agree to all of the terms of the foregoing documents, so please read through them carefully.
 
 ## ONE MAJOR RULE
 The one major rule is that you must not distribute anything we've made unless we specifically agree to it. By "distribute anything we've made" what we mean is:
@@ -19,7 +19,7 @@ give copies of our Game to anyone else;
 make commercial use of anything we've made;
 try to make money from anything we've made; or
 let other people get access to anything we've made in a way that is unfair or unreasonable;
-unless we specifically agree to it. And so that we are crystal clear, "the Game" or "what we have made" includes, but is not limited to, the client or the server software for our Game and includes Minecraft and Minecraft: Java Edition on all platforms. It also includes updates, patches, downloadable content, add-ons, or modified versions of a Game, part of those things, or anything else we've made.
+unless we specifically agree to it. And so that we are crystal clear, "the Game" or "what we have made" includes, but is not limited to, the client or the server software for our Game and includes 2048 Heores. It also includes updates, patches, downloadable content, add-ons, or modified versions of a Game, part of those things, or anything else we've made.
 
 Otherwise we are quite relaxed about what you do - in fact we really encourage you to do cool stuff - but just don't do those things that we say you can't.
 
@@ -32,13 +32,13 @@ The license and permission we give you to use and play our Game can be revoked i
 
 When you buy our Game, you receive a license that gives you permission to install the Game on your own personal device and use and play it on that device as set out in this EULA. This permission is personal to you, so you are not allowed to distribute the Game (or any part of it) to anyone else. This also means you cannot sell or rent the Game, or make it available for access to other people and you cannot pass on or resell any license keys. You may however give gift codes that have been bought through our official gift code system. This is important to help us stop piracy and fraud and to protect our Game. It is also important to prevent members of our community from buying pirated versions of our Game or fraudulent license keys - which we may cancel, such as in the case of fraud.
 
-If you've bought the Game, you may play around with it and modify it by adding modifications, tools, or plugins, which we will refer to collectively as "Mods." By "Mods," we mean something original that you or someone else created that doesn't contain a substantial part of our copyrightable code or content. When you combine your Mod with the Minecraft software, we will call that combination a "Modded Version" of the Game. We have the final say on what constitutes a Mod and what doesn't. You may not distribute any Modded Versions of our Game or software, and we'd appreciate it if you didn't use Mods for griefing. Basically, Mods are okay to distribute; hacked versions or Modded Versions of the Game client or server software are not okay to distribute.
+If you've bought the Game, you may play around with it and modify it by adding modifications, tools, or plugins, which we will refer to collectively as "Mods." By "Mods," we mean something original that you or someone else created that doesn't contain a substantial part of our copyrightable code or content. When you combine your Mod with the 2048 Heores software, we will call that combination a "Modded Version" of the Game. We have the final say on what constitutes a Mod and what doesn't. You may not distribute any Modded Versions of our Game or software, and we'd appreciate it if you didn't use Mods for griefing. Basically, Mods are okay to distribute; hacked versions or Modded Versions of the Game client or server software are not okay to distribute.
 
 Within reason you're free to do whatever you want with screenshots and videos of the Game. By "within reason" we mean that you can't make any commercial use of them or do things that are unfair or adversely affect our rights unless we've specifically said it's okay in this EULA, allowed it through the Brand and Asset Usage Guidelines, or provided for it in a specific agreement with you. If you upload videos of the game to video sharing and streaming sites you are however allowed to put ads on them. Also, don't just rip art resources and pass them around, that's no fun.
 
 Essentially the simple rule is do not make commercial use of anything we've made unless we've specifically said it's okay. Oh and if the law expressly allows it, such as under a "fair use" or fair dealing" doctrine then that's ok too - but only to the extent that the law applicable to you says so.
 
-In order to ensure the integrity of the Game, we need all Game downloads and updates to come from an authorized source. It's also important for us that 3rd party tools/services don't seem "official" as we can't guarantee their quality. It's part of the responsibility we have to the customers of Minecraft. Make sure that you read through our brand and asset usage guidelines too.
+In order to ensure the integrity of the Game, we need all Game downloads and updates to come from an authorized source. It's also important for us that 3rd party tools/services don't seem "official" as we can't guarantee their quality. It's part of the responsibility we have to the customers of2048 Heores. Make sure that you read through our brand and asset usage guidelines too.
 
 ## OWNERSHIP OF OUR GAME AND OTHER THINGS
 Although we license you permission to install on your device and play our Game, we are still the owners of it. We are also the owners of our brands and any content contained in the Game. Therefore, when you pay for our Game, you are buying a license to play / use our Game in accordance with this EULA - you are not buying the Game itself. The only permissions you have in connection with the Game and your installation of it are the permissions set out in this EULA.
@@ -53,6 +53,7 @@ If you make any content available on or through our Game, you agree to give us p
 If you are going to make something available on or through our Game, it must not be offensive to people or illegal, it must be honest, and it must be your own creation. Some examples of the types of things you must not make available using our Game include: posts that include racist or homophobic language; posts that are bullying or trolling; posts that are offensive or that damage our or another person's reputation; posts that include porn or someone else's creation or image; or posts that impersonate a moderator or try to trick or exploit people.
 
 Any content you make available on our Game must also be your creation or you must have permission or the legal right to do it. You must not and you agree that you will not make any content available, using the Game that infringes the rights of others.
+Conversations and content that are offensive to other users or conduct abusive behaviors may result in restrictions on use.
 
 We reserve the right to take down any content in our discretion.
 
