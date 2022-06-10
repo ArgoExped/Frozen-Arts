@@ -45,8 +45,6 @@ Although we license you permission to install on your device and play our Game, 
 
 Any Mods you create for the Game from scratch belong to you (including pre-run Mods and in-memory Mods) and you can do whatever you want with them, as long as you don't sell them for money / try to make money from them and so long as you don't distribute Modded Versions of the Game. Remember that a Mod means something that is your original work and that does not contain a substantial part of our code or content. You only own what you created; you do not own our code or content.
 
-<br>
-
 ## CONTENT
 If you make any content available on or through our Game, you agree to give us permission to use, copy, modify, adapt, distribute, and publicly display that content. This permission is irrevocable, and you also agree to let us permit other people to use, copy, modify, adapt, distribute, and publicly display your content. You are not giving up your ownership rights in your content, you are just giving us and other users permission to use it. For example, we may need to copy, reformat, and distribute content that you post on our website so others can read it. If you don't want to give us these permissions, do not make content available on or through our Game. Please think carefully before you make any content available, because it may be made public and might even be used by other people in a way you don't like.
 
@@ -58,8 +56,6 @@ Conversations and content that are offensive to other users or conduct abusive b
 We reserve the right to take down any content in our discretion.
 
 Please watch out if you are talking to people in our Game. It is hard for either you or us to know for sure that what people say is true, or even if people are really who they say they are. You should think twice about giving out information about yourself.
-
-<br>
 
 ## UPDATES
 We might make upgrades, updates or patches (we call them all "updates") available from time to time, but we don't have to. We are also not obliged to provide ongoing support or maintenance of any Game. Of course, we hope to continue to release new updates for our Game, we just can't guarantee that we will do so. With updates come changes that might not work well with other software, such as Mods. This is unfortunate, but it is something we don't take responsibility for. If that is the case, try running an older version.
