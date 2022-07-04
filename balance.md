@@ -7,6 +7,15 @@ include_in_header: true
 
 <br>
 
+## 3.0.1
+The legendary hero 'Conqueror' of the new military group is showing a strong figure without special strategy.
+Skills are balanced so that strategic use is required.
+
+1. Conqueror
+     - Skill Ability: Send 3 troops with 100% HP
+     -> Send 50% faster 50% health vanguard and 150% health general
+
+
 ## 2.0.7
 Currently, puzzle-oriented play rather than wave theorem shows that it is powerful in PvP mode.
 The following changes are being made to ensure strategy diversity.
