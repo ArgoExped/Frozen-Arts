@@ -5,6 +5,16 @@ include_in_header: true
 ---
 # Patch Logs
 
+<br>
+## 3.0.4
+The game is often decided at a very early point in the game.
+We have adjusted the movement speed of monsters so that you can play various strategies, such as achieving 2048 blocks.
+
+1. Movement speed change
+     - Normal monster: 3.5 --> 3.2
+     - Boss Monster: 3.5 --> 3.2
+     - Conqueror Summon Vanguard : 5 --> 4
+     - Conqueror Summon General : 15 --> 8
 
 <br>
 
