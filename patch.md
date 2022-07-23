@@ -13,8 +13,10 @@ We have adjusted the movement speed of monsters so that you can play various str
 1. Movement speed change
      - Normal monster: 3.5 --> 3.2
      - Boss Monster: 3.5 --> 3.2
-     - Conqueror Summon Vanguard : 5 --> 4
-     - Conqueror Summon General : 15 --> 8
+     - Conqueror Summon Vanguard : 5.25 --> 4.8
+     - Conqueror Summon General : 5.25 --> 4.8
+
+2. Period of enemy spawning: 0.4s > 0.5s
 
 <br>
 
