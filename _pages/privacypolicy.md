@@ -14,11 +14,11 @@ June 1 2021
 <br>
 
 ## 1.0 Introduction
-Welcome to Argo Expedition.
+Welcome to FROZENARTS Inc.
 
-Argo Expedition (“us”, “we”, or “our”) operates Expedition's applications(hereinafter referred to as “Service”).
+FROZENARTS Inc. (“us”, “we”, or “our”) operates Expedition's applications(hereinafter referred to as “Service”).
 
-Our Privacy Policy governs your visit to argoexped.com, and explains how we collect, safeguard and disclose information that results from your use of our Service.
+Our Privacy Policy governs your visit to frozenarts.com, and explains how we collect, safeguard and disclose information that results from your use of our Service.
 
 We use your data to provide and improve Service. By using Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
@@ -27,7 +27,7 @@ Our Terms and Conditions (“Terms”) govern all use of our Service and togethe
 <br>
 
 ## 2.0 Definitions
-**SERVICE** means the Argo Expedition's applications operated by Argo Expedition.
+**SERVICE** means the FROZENARTS Inc.'s applications operated by FROZENARTS Inc.
 
 **PERSONAL DATA** means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
@@ -101,7 +101,7 @@ While using our Service, we may also collect the following information: sex, age
 
 ## 5.0 Use of Data
 
-Argo Expedition uses the collected data for various purposes:
+FROZENARTS Inc. uses the collected data for various purposes:
 
 0.1. to provide and maintain our Service;
 
@@ -145,7 +145,7 @@ If you are located outside United State of America and choose to provide informa
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-Argo Expedition will take all the steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organisation or a country unless there are adequate controls in place including the security of your data and other personal information.
+FROZENARTS Inc. will take all the steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organisation or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 <br>
 
@@ -188,7 +188,7 @@ If you are a resident of the European Union (EU) and European Economic Area (EEA
 
 We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
 
-If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please email us at argoexped@gmail.com.
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please email us at support@frozenarts.com.
 
 In certain circumstances, you have the following data protection rights:
 
@@ -215,7 +215,7 @@ If you are a resident of the European Union (EU) and European Economic Area (EEA
 
 We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
 
-If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please email us at argoexped@gmail.com.
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please email us at support@frozenarts.com.
 
 In certain circumstances, you have the following data protection rights:
 
@@ -248,7 +248,7 @@ According to CalOPPA we agree to the following:
 
 0.3. users will be notified of any privacy policy changes on our Privacy Policy Page;
 
-0.4. users are able to change their personal information by emailing us at argoexped@gmail.com.
+0.4. users are able to change their personal information by emailing us at support@frozenarts.com.
 
 Our Policy on “Do Not Track” Signals:
 
@@ -286,7 +286,7 @@ If you submit a request to stop selling your personal information, we will stop 
 
 Please note, if you ask us to delete or stop selling your data, it may impact your experience with us, and you may not be able to participate in certain programs or membership services which require the usage of your personal information to function. But in no circumstances, we will discriminate against you for exercising your rights.
 
-To exercise your California data protection rights described above, please send your request(s) by email: argoexped@gmail.com.
+To exercise your California data protection rights described above, please send your request(s) by email: support@frozenarts.com.
 
 Your data protection rights, described above, are covered by the CCPA, short for the California Consumer Privacy Act. To find out more, visit the official California Legislative Information website. The CCPA took effect on 01/01/2020.
 
@@ -361,4 +361,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 ## 22.0 Contact Us
 
-If you have any questions about this Privacy Policy, please contact us by email: argoexped@gmail.com.
+If you have any questions about this Privacy Policy, please contact us by email: support@frozenarts.com.
