@@ -10,9 +10,9 @@ June 1 2021
 **Effective date**  
 June 1 2021
 
-These Terms of Service apply to services provided to users by ARGO("ARGO", below). 
+These Terms of Service apply to services provided to users by FROZENARTS Inc.("FROZENARTS", below). 
 Therefore, users must be sure to pay close attention while reading and must periodically check for changes that may occur according to Article 1.3. Furthermore, 
-ARGO may request consent to collect additional information while users are using the service, and this additional consent shall constitute part of these Terms and Conditions.
+FROZENARTS may request consent to collect additional information while users are using the service, and this additional consent shall constitute part of these Terms and Conditions.
 
 <br>
   
@@ -23,15 +23,15 @@ ARGO may request consent to collect additional information while users are using
 
 1.3. Users must use the service according to the Terms of Service and Privacy Policy/Service Policy (collectively referred to as "Service Policy" below). Furthermore, use of the service via methods other than those defined in the Service Policy is prohibited, and the service may only be used within the scope permitted by law. Should users fail to comply with the Service Policy or come under investigation due to suspicion of cheating, service provision may be temporarily restricted or stopped.
 
-1.4. ARGO will publish these Terms and Conditions for user perusal on its website or notify users of them through its application. 
-Users must periodically check these Terms and Conditions. ARGO may alter these Terms and Conditions should the service or relevant laws change. 
+1.4. FROZENARTS will publish these Terms and Conditions for user perusal on its website or notify users of them through its application. 
+Users must periodically check these Terms and Conditions. FROZENARTS may alter these Terms and Conditions should the service or relevant laws change. 
 The updated Terms and Conditions shall take effect 30 days after the changes are announced. Should users not consent to the updated Terms and Conditions, 
 their use of the service may be suspended. Should they continue using the service, they will be considered to have given consent to the updated Terms and Conditions.
  
 <br>
 
 ## 2.0 Account Management
-2.1. ARGO conducts user management, including whether or not they can use the service, via guest accounts, play accounts, and social media accounts ("user accounts", below)
+2.1. FROZENARTS conducts user management, including whether or not they can use the service, via guest accounts, play accounts, and social media accounts ("user accounts", below)
 
 2.2. Users bear sole responsibility to care for and manage their own user accounts, and are fully responsible for careless management of their own user accounts as well as damage due to their use by a third party.
 
@@ -40,18 +40,18 @@ their use of the service may be suspended. Should they continue using the servic
 <br>
 
 ## 3.0 Privacy Protection
-3.1. ARGO shall make efforts to protect the personal information of users, including user accounts, and the protection of personal information shall be in accordance with ARGO's Privacy Policy.
+3.1. FROZENARTS shall make efforts to protect the personal information of users, including user accounts, and the protection of personal information shall be in accordance with FROZENARTS's Privacy Policy.
 
-3.2. ARGO may request additional information from users other than user data received through the platform provider or/and social media provider and shall not use this collected or received personal information for any purpose other than specified in the Privacy Policy. Please read the Privacy Policy for more information.
+3.2. FROZENARTS may request additional information from users other than user data received through the platform provider or/and social media provider and shall not use this collected or received personal information for any purpose other than specified in the Privacy Policy. Please read the Privacy Policy for more information.
 
-3.3. ARGO does not collect any personal information on minors under 13 years of age (16 years of age in EU member nations).
+3.3. FROZENARTS does not collect any personal information on minors under 13 years of age (16 years of age in EU member nations).
  
 <br>
 
 ## 4.0 Third-party Advertisements & Push Notifications
-4.1. ARGO may publish advertisements on the service. Users consent to exposure to advertisements while using the service and shall not bear any responsibility for loss or damage incurred due to advertisement access/participation/trade, etc.
+4.1. FROZENARTS may publish advertisements on the service. Users consent to exposure to advertisements while using the service and shall not bear any responsibility for loss or damage incurred due to advertisement access/participation/trade, etc.
 
-4.2. ARGO may use email or push notifications to send advertisements, service updates, event details, etc. to users. Users may use the feature in the application for declining to receive push notifications at any time.
+4.2. FROZENARTS may use email or push notifications to send advertisements, service updates, event details, etc. to users. Users may use the feature in the application for declining to receive push notifications at any time.
  
 <br>
 
@@ -69,7 +69,7 @@ their use of the service may be suspended. Should they continue using the servic
 ## 6.0 In-App Purchases
 6.1. In-app payment to purchase content is included in the application, and payment methods depend on the app store provider.
 
-6.2. Users must use the password feature to prevent unwanted third-party in-app purchases, and ARGO shall not bear any responsibility for failure to use this in-app purchase protection or for in-app purchases occurring due to exposure of the password as a result of inattention on the part of users.
+6.2. Users must use the password feature to prevent unwanted third-party in-app purchases, and FROZENARTS shall not bear any responsibility for failure to use this in-app purchase protection or for in-app purchases occurring due to exposure of the password as a result of inattention on the part of users.
 
 6.3. Users may cancel purchases within the cooling-off period of 7 days from the date of content purchase, and refund of purchased content shall depend on the refund policy and procedure of the app store provider used by the user. Please consult your app store provider's terms of service for its refund policy and application procedure. 
 
@@ -78,25 +78,25 @@ their use of the service may be suspended. Should they continue using the servic
 <br>
 
 ## 7.0 Suspension & Termination
-7.1. ARGO maintains full rights to the service, including service operation and termination, and may modify, supplement, or terminate all or part of the service if operationally or technically necessary to improve the service, patch bugs, etc.
+7.1. FROZENARTS maintains full rights to the service, including service operation and termination, and may modify, supplement, or terminate all or part of the service if operationally or technically necessary to improve the service, patch bugs, etc.
 
-7.2. ARGO will provide the service to users as long as there are no particular business or technical impediments. However, the service may be temporarily suspended for a set period of time if necessary for regular system maintenance, server expansion or replacement, bug fixes, or changes in the service. In such cases, ARGO shall disclose this information and the period to users in advance, or shall notify users post facto if prior notification is impossible for unavoidable reasons.
+7.2. FROZENARTS will provide the service to users as long as there are no particular business or technical impediments. However, the service may be temporarily suspended for a set period of time if necessary for regular system maintenance, server expansion or replacement, bug fixes, or changes in the service. In such cases, FROZENARTS shall disclose this information and the period to users in advance, or shall notify users post facto if prior notification is impossible for unavoidable reasons.
  
 <br>
 
 ## 8.0 Disclaimers & Indemnifications
 **8.1. Disclaimer of Warranties**
 THE USER EXPRESSLY ACKNOWLEDGES AND AGREES THAT USE OF THE SERVICE IS AT YOUR SOLE RISK AND IS PROVIDED ON AN "AS IS" BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
-WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, NEITHER ARGO NOR ANY OF THEIR DIRECTORS, EMPLOYEES, AGENTS, THIRD-PARTY CONTENT PROVIDERS, ARGO AND ITS AFFILIATES, LICENSORS, SUPPLIERS, ADVERTISERS, SPONSORS, PARTNERS, DISTRIBUTORS, LICENSEES OR LICENSORS (COLLECTIVELY, "ARGO PARTIES") DOES NOT WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE.
+WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, NEITHER FROZENARTS NOR ANY OF THEIR DIRECTORS, EMPLOYEES, AGENTS, THIRD-PARTY CONTENT PROVIDERS, FROZENARTS AND ITS AFFILIATES, LICENSORS, SUPPLIERS, ADVERTISERS, SPONSORS, PARTNERS, DISTRIBUTORS, LICENSEES OR LICENSORS (COLLECTIVELY, "FROZENARTS PARTIES") DOES NOT WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE.
 
 **8.2. Disclaimers of Liability**
-THE USER ACKNOWLEDGES AND AGREES THAT, TO THE FULLEST EXTENT PERMITTED BY ANY APPLICABLE LAW, THE DISCLAIMERS OF LIABILITY CONTAINED HEREIN APPLY TO ANY AND ALL DAMAGES OR INJURIES WHATSOEVER CAUSED BY OR RELATED TO THE USE OF, OR INABILITY TO USE, THE SERVICE DUE TO ANY CAUSE OR ACTION WHATSOEVER OF ANY JURISDICTION, INCLUDING, WITHOUT LIMITATION, ACTIONS FOR BREACH OF WARRANTY AND BREACH OF CONTRACT OR TORT (INCLUDING NEGLIGENCE), AND THAT ARGO PARTIES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, INCLUDING FOR LOSS OF PROFITS, GOODWILL, OR DATA, IN ANY WAY WHATSOEVER ARISING OUT OF THE USE OF, OR INABILITY TO USE, THE SERVICE.
-THE USER FURTHER ACKNOWLEDGES AND AGREES THAT ARGO PARTIES ARE NOT LIABLE, AND THE USER AGREES NOT TO SEEK TO HOLD ARGO PARTIES LIABLE, FOR THE CONDUCT OF THIRD PARTIES, INCLUDING OTHER USERS OF THE SERVICE AND OPERATORS OF EXTERNAL SITES, AND THAT THE RISK OF THE SERVICE AND EXTERNAL SITES AND OF INJURY FROM THE FOREGOING RESTS ENTIRELY WITH USER.
-TO THE EXTENT PERMISSIBLE UNDER APPLICABLE LAWS, UNDER NO CIRCUMSTANCES WILL ARGO PARTIES BE LIABLE TO YOU FOR MORE THAN THE AMOUNT YOU HAVE PAID ARGO IN THE ONE HUNDRED AND EIGHTY DAYS (180) DAYS IMMEDIATELY PRECEDING THE DATE ON WHICH YOU FIRST ASSERT ANY SUCH CLAIM.
+THE USER ACKNOWLEDGES AND AGREES THAT, TO THE FULLEST EXTENT PERMITTED BY ANY APPLICABLE LAW, THE DISCLAIMERS OF LIABILITY CONTAINED HEREIN APPLY TO ANY AND ALL DAMAGES OR INJURIES WHATSOEVER CAUSED BY OR RELATED TO THE USE OF, OR INABILITY TO USE, THE SERVICE DUE TO ANY CAUSE OR ACTION WHATSOEVER OF ANY JURISDICTION, INCLUDING, WITHOUT LIMITATION, ACTIONS FOR BREACH OF WARRANTY AND BREACH OF CONTRACT OR TORT (INCLUDING NEGLIGENCE), AND THAT FROZENARTS PARTIES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, INCLUDING FOR LOSS OF PROFITS, GOODWILL, OR DATA, IN ANY WAY WHATSOEVER ARISING OUT OF THE USE OF, OR INABILITY TO USE, THE SERVICE.
+THE USER FURTHER ACKNOWLEDGES AND AGREES THAT FROZENARTS PARTIES ARE NOT LIABLE, AND THE USER AGREES NOT TO SEEK TO HOLD FROZENARTS PARTIES LIABLE, FOR THE CONDUCT OF THIRD PARTIES, INCLUDING OTHER USERS OF THE SERVICE AND OPERATORS OF EXTERNAL SITES, AND THAT THE RISK OF THE SERVICE AND EXTERNAL SITES AND OF INJURY FROM THE FOREGOING RESTS ENTIRELY WITH USER.
+TO THE EXTENT PERMISSIBLE UNDER APPLICABLE LAWS, UNDER NO CIRCUMSTANCES WILL FROZENARTS PARTIES BE LIABLE TO YOU FOR MORE THAN THE AMOUNT YOU HAVE PAID FROZENARTS IN THE ONE HUNDRED AND EIGHTY DAYS (180) DAYS IMMEDIATELY PRECEDING THE DATE ON WHICH YOU FIRST ASSERT ANY SUCH CLAIM.
 
 **8.3. Indemnification**
-The user agrees to indemnify and hold harmless ARGO Parties from any claims, losses, damages, or liabilities, including legal fees and expenses, arising out of (a) your use or misuse of the ARGO Service, (b) any violation by you of the ARGO Policy, or (c) any breach of the representations, warranties, and covenants made by you herein.
-ARGO may assume the defense of any matter for which you are required to indemnify ARGO by sending notice of such an intention to you. The user shall use its best efforts to cooperate with ARGO's defense of these claims.
+The user agrees to indemnify and hold harmless FROZENARTS Parties from any claims, losses, damages, or liabilities, including legal fees and expenses, arising out of (a) your use or misuse of the FROZENARTS Service, (b) any violation by you of the FROZENARTS Policy, or (c) any breach of the representations, warranties, and covenants made by you herein.
+FROZENARTS may assume the defense of any matter for which you are required to indemnify FROZENARTS by sending notice of such an intention to you. The user shall use its best efforts to cooperate with FROZENARTS's defense of these claims.
  
 <br>
 
@@ -111,7 +111,7 @@ If you have any claim arising out of this Agreement against us, we strongly enco
 The waiver by either party of a breach of or a default under any provision of this Agreement, shall be in writing and shall not be construed as a waiver of any subsequent breach of or default under the same or any other provision of this Agreement, nor shall any delay or omission on the part of either party to exercise or avail itself of any right or remedy that it has or may have hereunder operate as a waiver of any right or remedy.
 
 **9.4. Force Majeure**
-Neither party shall be responsible or have any liability for any delay or failure to perform to the extent required due to unforeseen circumstances or causes beyond its reasonable control, including, without limitation, acts of God, earthquake, fire, flood, embargoes, labor disputes and strikes, riots, war, acts of a public enemy, error in the coding of electronic files, Internet or other network "brownouts" or failures, power failures, novelty of product manufacture or other unanticipated product development problems, and acts of civil and military authorities.
+Neither party shall be responsible or have any liability for any delay or failure to perform to the extent required due to unforeseen circumstances or causes beyond its reasonable control, including, without limitation, acts of God, earthquake, fire, flood, embFROZENARTSes, labor disputes and strikes, riots, war, acts of a public enemy, error in the coding of electronic files, Internet or other network "brownouts" or failures, power failures, novelty of product manufacture or other unanticipated product development problems, and acts of civil and military authorities.
  
 <br>
 
@@ -124,13 +124,13 @@ Neither party shall be responsible or have any liability for any delay or failur
 
 **10.4. Single sign-on (SSO)**: a guest account connected to a play account or social media account.
 
-**10.5. Service**: the game service provided by ARGO.
+**10.5. Service**: the game service provided by FROZENARTS.
 
-**10.6. Application (app)**: the entire program enabling use of the service provided by ARGO.
+**10.6. Application (app)**: the entire program enabling use of the service provided by FROZENARTS.
 
-**10.7. App store provider**: a mobile open market provider (Apple, Google, etc.) enabling download of the application provided by ARGO and in-app purchases.
+**10.7. App store provider**: a mobile open market provider (Apple, Google, etc.) enabling download of the application provided by FROZENARTS and in-app purchases.
 
-**10.8. Platform provider**: the provider offering the service in partnership with ARGO and all relevant services.
+**10.8. Platform provider**: the provider offering the service in partnership with FROZENARTS and all relevant services.
 
 **10.9. Content**: items, etc. that can be used on the service.
 
