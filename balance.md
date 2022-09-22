@@ -7,6 +7,49 @@ include_in_header: true
 
 <br>
 
+
+## 3.0.5
+Energy gain has been increased to enable strategies to make 2048.
+The relevant values are adjusted.
+
+1. Energy gain
+     - At start: 5 --> 8
+     - At the end of wave: 5 --> 8
+
+2. Heroes spawning rate on the board 
+     - Common: 16 --> 12
+     - Special: 8 --> 6
+     - Legendary: 4 --> 2
+        
+3. Mobs & waves
+     - Mobs per wave: 7 --> 8
+     - Hero mobs hp: +50%
+     - Movement speed of mob: 3.2 -->3
+     - Movement speed of mobs spawned by conqueror: 4.8 --> 4.5
+
+4. Civilian
+     - Skill rate: 60/70/80/100 --> 30/40/50/70
+
+
+Rewards in the chest is raised by about 500%. Required key is raised.
+
+1. Chest
+     - More gold, Many heroes, including legendary heroes rate by 10% (1% --> 10%)
+     - Required Keys: 20 --> 40
+
+2. Spawning heroes by gold is removed.
+
+
+Performance & UI enhancement
+
+1. Reduction of battery usage dramatically.
+2. UI is polished and bugs are fixed.
+3. Waiting time is adujusted to 5s. In high leagues, it is up to 8s.
+4. Chatting is temporarily disabled. It will be update with friend & clans.
+
+<br>
+
+
 ## 3.0.1
 The legendary hero 'Conqueror' of the new military group is showing a strong figure without special strategy.
 Skills are balanced so that strategic use is required.
