@@ -7,6 +7,52 @@ include_in_header: true
 
 <br>
 
+
+## 3.0.6
+Main bosses appears. They use powerful skills periodically.
+We need to check the skills of the main boss and come up with a strategy.
+
+
+1. Main Boss
+     - Appears every 5 waves.
+     - When the game starts and the boss is eliminated, the next main boss is decided.
+               
+               
+2. New Mode: "Defense Mode"
+     - Even if you make 2048, the game continues.
+     - From wave 10 to wave 50, the higher the wave, the higher the reward.
+     - If there are more than 10 waves, the ranking is recorded.
+     - New quest: "Defense Mode Ranker Achievement"  has been added.
+     - Special main boss is added, which appear in defense mode only.
+     - You can enter defense mode by using a golden key, which are refilled everyday. 
+        
+        
+3. Monster and Wave Adjustment
+     - Wave order: "Normal Mob Wave - Hero Mob Wave - Normal Mob Wave - Hero Mob Wave - Main Boss Wave"
+     
+     
+4. Citizen
+     - In patch 3.0.5, increased the amount of energy per wave makes citizens too strong.
+     - Adjusted the skill rate in consideration of energy supply and synergy with the architect.
+     - Skill Chance: 30/40/50/70 --> 30/35/40/50
+
+
+5. Convenience
+     - You can select the style of the block in the settings panel.
+     - Damage dealt to mobs is displayed.
+     - A bug in selecting deck is fixed.
+
+
+6. Shopping
+     - A new product tab has been added.
+     - Bugs related to product purchase have been fixed.
+     
+     
+7. Others
+     - The pvp server has been expanded.
+     - The app works more efficiently.
+
+
 ## 3.0.5
 Energy gain has been increased to enable strategies to make 2048.
 The relevant values are adjusted.
