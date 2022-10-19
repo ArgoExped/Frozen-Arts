@@ -8,7 +8,7 @@ include_in_header: true
 <br>
 
 
-## 3.0.6
+## 3.0.6 - 3.0.7
 Main bosses appears. They use powerful skills periodically.
 We need to check the skills of the main boss and come up with a strategy.
 
