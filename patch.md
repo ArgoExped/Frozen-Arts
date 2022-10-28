@@ -8,6 +8,101 @@ include_in_header: true
 <br>
 
 
+
+## ⚡3.1.1 
+
+1. Bug fixes
+- Fixed a bug where hero information was not displayed properly
+- Fixed a bug where the petrified hero used the skill immediately after the petrification was released.
+- Fixed translation errors and improved damage visual effects
+- Fixed a bug where the quest for the winning streak was duplicated
+- Fixed a bug where energy per wave increased by 7 instead of 8
+- Fixed a bug where the next hero boss was not displayed properly
+
+
+2. Main Boss
+
+- Fixed a bug where the cooldown did not run after using Bard's skill
+- Bard's attack speed reduction effect (-20%) is applied in proportion to the current attack speed.
+- The shield's shield effect is upgraded. from: 5% of max health, to: 2%
+
+
+3. Hero
+
+Common heroes who do not use active skills are weak.<br>
+To increase the variety of strategies, the probability of heroes appearing on the board is increased.
+
+- Common: 12 > 16%
+- Special: 6 > 8%
+- Legendary: 2 > 4%
+
+
+4. Hero Balancing
+
+Most of the heroes receive an indirect buff effect due to the increase in the probability of their appearance.
+The skills of heroes classified as OP are adjusted.
+
+**Lord**
+The lord's attack is not a projectile, but an instant-actuated type, recording an exceptionally high amount of damage.
+Base attack speed reduced. (1 > 0.5 )
+
+**Musician**
+Attack speed increase is reduced.
+Before: 4 / 6 / 8 / 12%   After: 2 / 4 / 6 / 8%
+
+**breaker**
+Attack speed increase is reduced.
+Before: 2 / 4 / 6 / 10%   After: 2 / 3 / 4 / 5%
+
+**soldier**
+Attack speed increase is reduced.
+Before: 8 / 12 / 16 / 24%   After: 6 / 8 / 12 / 16%
+
+
+
+5. Wave Balancing
+
+Heroes who deal single damage are more effective than heroes with controls and heroes dealing area damage.<br>
+The movement speed and number of enemies are changed.
+
+- Movement speed of all enemies except the main boss: 3 > 2.5 (-20%)
+- Enemies population increase: 8 > 9
+- Conqueror summons movement speed: 4.5 > 3.75
+- Enemy base health multiplier: 50 > 40
+- 10 or more waves: Increases enemies' movement speed by 20%
+- Every 10 waves, the enemy's HP increases by an additional 10%.
+- Over 30 waves: Increases the number of enemies by 1 additional
+
+
+
+6. Economy
+
+Currently, the efficiency of recruiting a hero is too high.<br>
+The moonstones required to recruit hero has been increased.
+
+- Normal: 40 > 60
+- Special: 60 > 180
+- Legend: 360 > 540
+
+
+
+7. Mode
+
+Exploration mode will be reworked. It will be disabled in this update.
+
+
+
+8. Other
+
+- Added visual effects when merging blocks.
+- The unit of the season reward has been increased. (20 > 40)
+
+
+
+Then, until the next update 2048 together! 🔥
+
+<br>
+
 ## 3.0.6 - 3.0.7
 Main bosses appears. They use powerful skills periodically.
 We need to check the skills of the main boss and come up with a strategy.
