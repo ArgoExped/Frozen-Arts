@@ -13,7 +13,7 @@ include_in_header: true
 	
 	- EVENT1: 접속 이벤트
 	- EVENT 2: PvP 보상 2배!
-        - EVENT 3: 프리미엄 패스 상품 할인
+	- EVENT 3: 프리미엄 패스 상품 할인
 
 
 2. 신규 메인 보스: 프로젝트 미사일
