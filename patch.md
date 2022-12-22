@@ -43,8 +43,8 @@ Since raising the number increases damage, the attack speed of heroes with skill
 
 5. Wave Balancing
 
-에너지를 수급하는 영웅들의 가치가 낮아지고, 플레이어 마다 남는 에너지가 높습니다.
-	
+Heroes who gains energy is buffed.
+
 	- Starting energy and energy per wave: 8 to 7.
 	- 10% of the main bosses' HP is added from 20 waves or more.
 
