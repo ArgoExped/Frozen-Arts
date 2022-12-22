@@ -12,8 +12,7 @@ include_in_header: true
 
 1. Christmas & New Year Events
 
-Events are started until Jan. 2nd.
-
+	- Events are started until Jan. 2nd.
 	- EVENT1: Login Event
 	- EVENT 2: PvP RewardsX2!
 	- EVENT 3: Premium Pass Bargains
@@ -21,16 +20,13 @@ Events are started until Jan. 2nd.
 
 2. NEW MAIN BOSS: Project Missile
 
-The strong main boss is appeared.
-
 	- Fires missiles to 2 locations on the board every 8 seconds. Blocks fired by the missile are destroyed.
 	- You can avoid incoming missiles by moving blocks to different locations.
 
 
 3. Heroes Balancing
 
-Since raising the number increases damage, the attack speed of heroes with skills that increase the number decreases.
-
+	- Since raising the number increases damage, the attack speed of heroes with skills that increase the number decreases.
 	**Pioneer**
 	Attack Speed 1s > 2s
 	
@@ -43,15 +39,14 @@ Since raising the number increases damage, the attack speed of heroes with skill
 
 4. Wave Balancing
 
-Heroes who gains energy is buffed.
-
+	- Heroes who gains energy is buffed.
 	- Starting energy and energy per wave: 8 to 7.
 	- 10% of the main bosses' HP is added from 20 waves or more.
 
 
 5. Skill Descriptions Rework
 
-Descriptions of all heroes' skill are reworked.
+	- Descriptions of all heroes' skill are reworked.
 
 	
 See you in the next update. Finally, 2048! 🔥
