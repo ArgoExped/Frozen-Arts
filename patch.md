@@ -8,6 +8,53 @@ include_in_header: true
 <br>
 
 
+## ⚡3.1.7 
+
+1. Christmas & New Year Events
+
+Events are started until Jan. 2nd.
+
+	- EVENT1: Login Event
+	- EVENT 2: PvP RewardsX2!
+	- EVENT 3: Premium Pass Bargains
+
+
+2. NEW MAIN BOSS: Project Missile
+
+The strong main boss is appeared.
+
+	- Fires missiles to 2 locations on the board every 8 seconds. Blocks fired by the missile are destroyed.
+	- You can avoid incoming missiles by moving blocks to different locations.
+
+
+3. Heroes Balancing
+
+Since raising the number increases damage, the attack speed of heroes with skills that increase the number decreases.
+
+	**Pioneer**
+	Attack Speed 1s > 2s
+	
+	**Revolutionary**	
+	Attack Speed 1s > 2s
+	
+	**Spokesman**
+	Attack Speed 1s > 2s
+
+
+5. Wave Balancing
+
+에너지를 수급하는 영웅들의 가치가 낮아지고, 플레이어 마다 남는 에너지가 높습니다.
+	
+	- Starting energy and energy per wave: 8 to 7.
+	- 10% of the main bosses' HP is added from 20 waves or more.
+
+6. Skill Descriptions Rework
+
+ Descriptions of all heroes' skill are reworked.
+
+	
+See you in the next update. Finally, 2048! 🔥
+
 
 ## ⚡3.1.1 
 
