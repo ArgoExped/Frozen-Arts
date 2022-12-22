@@ -41,16 +41,17 @@ Since raising the number increases damage, the attack speed of heroes with skill
 	Attack Speed 1s > 2s
 
 
-5. Wave Balancing
+4. Wave Balancing
 
 Heroes who gains energy is buffed.
 
 	- Starting energy and energy per wave: 8 to 7.
 	- 10% of the main bosses' HP is added from 20 waves or more.
 
-6. Skill Descriptions Rework
 
- Descriptions of all heroes' skill are reworked.
+5. Skill Descriptions Rework
+
+Descriptions of all heroes' skill are reworked.
 
 	
 See you in the next update. Finally, 2048! 🔥
