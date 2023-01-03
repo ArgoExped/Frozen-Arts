@@ -7,6 +7,25 @@ include_in_header: true
 
 <br>
 
+## ⚡3.1.8 
+
+1. New Shop
+
+	- New tab is added at the top of the shop
+	- At the main shop, you can acquire even Legendary Heroes.
+	- Each heroes can be purcahsed once a day using gold.
+	- Shop is refreshed daily.
+
+
+
+2. Bug Fixed
+	- Bugs on the mastery is fixed.
+	- Translation fn the Chinese Traditional is polished.
+
+	
+See you in the next update. Finally, 2048! 🔥
+
+
 
 ## ⚡3.1.7 
 
