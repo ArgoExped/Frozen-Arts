@@ -12,8 +12,8 @@ include_in_header: true
 1. New Shop
 
 	- New tab is added at the top of the shop
-	- At the main shop, you can acquire even Legendary Heroes.
-	- Each heroes can be purcahsed once a day using gold.
+	- At the main shop, you can acquire even a Legendary Hero.
+	- Each heroes can be purchased once a day using gold.
 	- Shop is refreshed daily.
 
 
