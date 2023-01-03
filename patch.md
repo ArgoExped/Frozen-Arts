@@ -20,7 +20,7 @@ include_in_header: true
 
 2. Bug Fixed
 	- Bugs on the mastery is fixed.
-	- Translation fn the Chinese Traditional is polished.
+	- Translation errors in the Chinese Traditional is fixed.
 
 	
 See you in the next update. Finally, 2048! 🔥
