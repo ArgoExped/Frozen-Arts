@@ -7,6 +7,21 @@ include_in_header: true
 
 <br>
 
+
+
+## ⚡3.1.9
+
+1. Now Project Missile launches when it appears.
+	
+2. Bug Fix
+	- Fixed a bug where the level was not applied properly when the statesman was used with other legendary heroes.
+	- Fixed a bug where other rewards were displayed as golden keys after acquiring golden keys.
+
+	
+See you in the next update. Finally, 2048! 🔥
+
+
+
 ## ⚡3.1.8 
 
 1. New Shop
