@@ -13,9 +13,10 @@ include_in_header: true
 1. The number of decks is increased to 5.
 	- No golds or moonstones are required. It's free.
 	
-2. Bug Fix
+2. Fixed Bugs
 	- Bugs on the captain with max level is fixed.
 	- Fixed bugs on popup menus.
+	- Fixed typos on the Chinese (Traditional).
 
 	
 See you in the next update. Finally, 2048! 🔥
