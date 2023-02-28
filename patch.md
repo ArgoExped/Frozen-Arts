@@ -7,7 +7,7 @@ include_in_header: true
 
 ## ⚡3.3.0
 
-Update 3.3.0 will be available for download from the Apple/Google Store on March 1, 2019.
+Update 3.3.0 will be available for download from the Apple/Google Store on the 1st March.
 
 <br>
 
