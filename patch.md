@@ -5,6 +5,117 @@ include_in_header: true
 ---
 # Patch Logs
 
+## ⚡3.3.0
+
+Update 3.3.0 will be available for download from the Apple/Google Store on March 1, 2019.
+
+<br>
+
+**New Group: The Project**
+
+There are 6 heroes who hold the secrets of the swarming machines.
+These machines require technical play to use energy strategically.
+
+- Group Synergy: Increases the maximum amount of energy (3 heroes: 5, 6 heroes: 10).
+
+- Turret (Common): It gets stronger as more towers are added on the board.
+- Cannon (Common): Depending on the amount of energy possessed, ranged splash-attacks become stronger.
+- Assassin (Common): Uses energy to instantly kill common mobs.
+- Sniper (Special): Uses energy to snipe and destroy the opponent's hero.
+- Engineer (Special): Creates a turret on an empty block every 14 seconds.
+- Knight (Legendary): Builds a shield to defend your base when you reach a certain number of blocks.
+
+<br>
+
+**Balancing**
+
+2048 Heroes aims for a fast-tempo game that matches the light control feeling.
+The following changes will be applied.
+
+- Fixed waiting time at the start of each wave: 1 sec -> 0.5 sec
+- As the wave increases, the enemy's HP increase has been slightly increased.
+- Reduced the chance of common heroes appearing from 16% to 12%.
+- The main boss becomes more powerful.
+
+<br>
+
+**Main Boss "Medusa" Rework**
+
+Medusa has been reworked based on player feedbacks.
+
+- The permanent petrification effect has been removed.
+- The duration of all petrification effects (including Controler's ability and rune effects) has been increased from 3 seconds to 5 seconds.
+- Medusa petrifies heroes (up to 8) in 2 rows/columns close to her location.
+- Heroes affected by petrification cannot attack or use skills.
+- You can purify the petrification by combining blocks with the petrified hero.
+
+<br>
+
+**Season Changes**
+
+We now run 2 seasons per month.
+
+- A new season starts on the 1st and 15th of every month.
+- When the season ends, you will receive a reward based on your previous league.
+- Rankings and season pass rewards will be reset in the new season.
+- Starting league is based on the previous season's league and the average level of your heroes.
+
+<br>
+
+**Economy**
+
+PvP Hot Time!
+
+- From 12:00 to 13:00 and from 22:00 to 23:00, 50% additional gold is obtained for PvP victories.
+
+
+Compensation differential by league
+
+- The higher the league, the more basic rewards you will receive.
+- Ad watching rewards have no changes.
+- Gold: 10 ~ 50
+- Keys: 1 to 5
+
+
+Chest and key
+
+- One fixed drawing of hero is added on the chest.
+- Before: Up to 3 types of heroes (n cards) -> After: Up to 4 types of heroes (n cards)
+- The number of keys that can be obtained from PvP victories is limited to 100 per day.
+- The keys that can be acquired in defense mode, quests, and roulette are not limited.
+- Due to the fixed draw increase in the number of heroes that can be obtained per chest, the number of defense mode reward keys has been decreased.
+
+<br>
+
+**Convenience**
+
+UI for displaying damage per second (DPS)
+
+- During gameplay, the attack power of the entire board is displayed.
+
+
+Hero info interface
+
+- If you tap a hero included in the deck, you can check the hero's detailed information.
+
+
+Deck recommendation and automatic deck setting
+
+- A deck recommendation page has been added to the top of the battle menu.
+- You can check Beginner Deck, Intermediate Deck, and Expert Deck.
+- When you press the select button, the current deck is automatically changed.
+- Recommended decks are just example for inspirations of strategic idea.
+
+
+Group Shortcut Interface
+
+- Added icon buttons for each group on the Hero page.
+- You can immediately check the heroes of each group by pressing the corresponding button.
+
+<br>
+
+Create 2048 using new heroes! 🔥
+
 <br>
 
 
