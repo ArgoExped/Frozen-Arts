@@ -13,7 +13,7 @@ include_in_header: true
 
 1. The Revolutionary
 
-The condition of his skill is be fixed to 64 in all levels.
+The condition of his skill is fixed to 64 in all levels.
 
 	- 1 Level: 4 Random Heroes' number will be raised.
 	- 4 Level: 6 Random Heroes' number will be raised.
