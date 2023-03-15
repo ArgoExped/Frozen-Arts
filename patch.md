@@ -5,6 +5,42 @@ include_in_header: true
 ---
 # Patch Logs
 
+<br>
+
+## ⚡3.3.2
+
+**Balancing**
+
+1. The Revolutionary
+
+The condition of his skill is be fixed to 64 in all levels.
+
+	- 1 Level: 4 Random Heroes' number will be raised.
+	- 4 Level: 6 Random Heroes' number will be raised.
+	- 7 Level:   8 Random Heroes' number will be raised.
+	- Max Level: All heroes' number will be raised.
+		
+2. Sniper
+
+- Sniper can use skill when bullet is ready.
+- Added delay of skill usages about 3 s.
+
+**Bug Fixed**
+
+1. In iOS bugs in the tutorial are fixed.
+2. Now SFX of main boss can be muted.
+
+<br>
+
+## ⚡3.3.1
+
+**Bug Fixed**
+
+1. Fixed bugs for stable logins.
+2. Reduced range of PvP matchmakings.
+
+<br>
+
 ## ⚡3.3.0
 
 Update 3.3.0 will be available for download from the Apple/Google Store on the 1st March.
