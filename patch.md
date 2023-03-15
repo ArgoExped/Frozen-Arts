@@ -12,16 +12,16 @@ include_in_header: true
 **Balancing**
 
 1. The Revolutionary
-The condition of his skill is fixed to 64 in all levels.
-
+	
+	- The condition of his skill is fixed to 64 in all levels.
 	- 1 Level: 4 Random Heroes' number will be raised.
 	- 4 Level: 6 Random Heroes' number will be raised.
 	- 7 Level:   8 Random Heroes' number will be raised.
 	- Max Level: All heroes' number will be raised.
 		
 2. Sniper
-Sniper can use skill when bullet is ready.
- 
+
+	- Sniper can use skill when bullet is ready. 
 	- Added delay of skill usages about 3 s.
 
 **Bug Fixed**
