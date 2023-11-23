@@ -18,5 +18,5 @@ Welcome to FROZENARTS Inc.
 
 FROZENARTS Inc. (“us”, “we”, or “our”) operates FROZENARTS Inc.'s applications(hereinafter referred to as “Service”).
 
-If you want to delete your data which is used for logging in FROZENARTS Inc.'s, mail to support@frozenarts.com.
+If you want to delete your data which is used for logging in FROZENARTS Inc.'s applications, please mail to support@frozenarts.com.
 <br>
